@@ -1,0 +1,39 @@
+V1 Swara Radio
+
+Musician – Navigates to Swara home screen and selects Musician button or logs in if they already have an account (skip to 2 in this case).
+
+    •    Musician has the ability to create an account.
+    •    Name of band
+    •    Home city
+    •    Genre
+    •    Email address
+    •    Create Password
+    
+Musician logs into account using email address and password provided when they created their account. Musician is taken to their band home screen where they can upload files.
+
+    •    Music files
+    •    Cover Art
+    •    Profile Picture
+    •    Musician has the ability to listen to music while logged in.
+    •    Search by city
+    •    Search by genre
+    •    Search by genre and city
+    •    Search by Zip Code   
+    •    Search by name of band
+
+Listener – Navigates to Swara Radio home and selects Listener button and is taken to the Listener page.
+
+Listener has the ability to listen to music.
+
+    •    Search by city
+    •    Search by genre
+    •    Search by genre and city
+    •    Search by name of band
+    •    Search by Zip Code   
+    •    Ability to play all music in Swara library
+    
+Music plays randomly based on search criteria and listener is shown information about the music
+
+    •    Name of song
+    •    Name of band
+    •    Cover art of band
